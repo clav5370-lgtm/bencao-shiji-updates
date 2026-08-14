@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/clav5370-lgtm/bencao-shiji-updates/main/android/bencao-shiji-v1.4.0.apk",
-  "sha256": "6a0aea494f468dce1b5da95ab3f7328c4a0f267179bb22d2a063c74e43ae9346",
-  "notes": "新增本草主题登录封面与手机桌面图标；统一字体字重；加入内容依据、致谢和制作人署名；优化应用内更新恢复流程。"
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "apkUrl": "https://raw.githubusercontent.com/clav5370-lgtm/bencao-shiji-updates/main/android/bencao-shiji-v1.5.0.apk",
+  "sha256": "fbbff1219a63a84ee4518a3975d3c54aca383bb1535c81f09ca4a3dd70500bc0",
+  "notes": "所有标题、正文、按钮、输入框、分类标签和应用内弹窗统一为同一无衬线字体、常规字重，消除不同手机系统产生的粗细差异。"
 }
