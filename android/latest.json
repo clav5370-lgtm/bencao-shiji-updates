@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
-  "apkUrl": "https://raw.githubusercontent.com/clav5370-lgtm/bencao-shiji-updates/main/android/bencao-shiji-v1.5.0.apk",
-  "sha256": "fbbff1219a63a84ee4518a3975d3c54aca383bb1535c81f09ca4a3dd70500bc0",
-  "notes": "所有标题、正文、按钮、输入框、分类标签和应用内弹窗统一为同一无衬线字体、常规字重，消除不同手机系统产生的粗细差异。"
+  "versionCode": 7,
+  "versionName": "1.6.0",
+  "apkUrl": "https://raw.githubusercontent.com/clav5370-lgtm/bencao-shiji-updates/main/android/bencao-shiji-v1.6.0.apk",
+  "sha256": "1c94f7a51c48eaffa4939c3230d1ac6067fd4b9d87a507617cee17af581a81a6",
+  "notes": "按《中药学》章节新增 21 个一级分类和 38 个二级分类；进入解表、清热、泻下、祛风湿等类别后可继续细分筛选，并修正多味中药的教材分类归属。"
 }
